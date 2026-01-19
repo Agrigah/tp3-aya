@@ -106,23 +106,18 @@ Gère la sérialisation et la désérialisation
 Application console contenant le main() avec un menu interactif :
 
 1. Display the list of products
-   <img width="1017" height="265" alt="image" src="https://github.com/user-attachments/assets/a4fbce8f-8b30-4ceb-8823-82258571f613" />
-
+<img width="1017" height="265" alt="image" src="https://github.com/user-attachments/assets/a4fbce8f-8b30-4ceb-8823-82258571f613" />
 2. Search for a product by its ID
-   <img width="996" height="238" alt="image" src="https://github.com/user-attachments/assets/6bd63e29-c50a-47f6-a61e-4615d70bfbc3" />
-
+<img width="996" height="238" alt="image" src="https://github.com/user-attachments/assets/6bd63e29-c50a-47f6-a61e-4615d70bfbc3" />
 3. Add a new product to the list
-   <img width="563" height="345" alt="image" src="https://github.com/user-attachments/assets/b6b6248c-a3f4-4030-a698-5572cd897d24" />
-
+<img width="563" height="345" alt="image" src="https://github.com/user-attachments/assets/b6b6248c-a3f4-4030-a698-5572cd897d24" />
 4. Delete a product by ID
-   <img width="404" height="224" alt="image" src="https://github.com/user-attachments/assets/8589db1a-2f99-4896-a67b-8ff01126573b" />
-   <img width="1005" height="450" alt="image" src="https://github.com/user-attachments/assets/c9886046-aa7a-4343-bf06-7af1290b61d6" />
-
+<img width="404" height="224" alt="image" src="https://github.com/user-attachments/assets/8589db1a-2f99-4896-a67b-8ff01126573b" />
+<img width="1005" height="450" alt="image" src="https://github.com/user-attachments/assets/c9886046-aa7a-4343-bf06-7af1290b61d6" />
 5. Save the products
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8dd70581-bb03-4b84-9475-bacbbf198f79" />
- 
+<img width="482" height="540" alt="image" src="https://github.com/user-attachments/assets/44e9307d-ad21-4f0a-b176-988ed71b1464" />
 6. Exit
-   <img width="408" height="217" alt="image" src="https://github.com/user-attachments/assets/4769cc45-22f2-47a2-9128-eaab22b8ed3e" />
+<img width="408" height="217" alt="image" src="https://github.com/user-attachments/assets/4769cc45-22f2-47a2-9128-eaab22b8ed3e" />
 
 
 🎯 Compétences acquises
